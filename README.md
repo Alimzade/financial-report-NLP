@@ -2,7 +2,7 @@
 
 This project applies deep learning and natural language processing (NLP) techniques to analyze the 10K financial reports of Northrop Grumman Corporation. It aims to extract insights by focusing on document similarity, key terms, phrases, topic modeling, and trend analysis etc.
 
-``Includes 50 code cells, 43 of which contain outputs that showcase the analysis results and insights derived from the 10K reports.``
+``Mostly contains outputs that showcase the analysis results and insights derived from the 10K reports.``
 
 ## Project Features
 
