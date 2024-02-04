@@ -1,19 +1,20 @@
 # Deep Learning and NLP Analysis of Northrop Grumman Corporation's 10K Report
 
-This repository contains a Jupyter notebook that leverages deep learning and natural language processing (NLP) techniques to analyze the 10K financial reports of Northrop Grumman Corporation. The analysis aims to uncover insights from the textual data within these reports, focusing on document similarity, key terms and phrases, topic modeling, and trends over time.
+This project applies deep learning and natural language processing (NLP) techniques to analyze the 10K financial reports of Northrop Grumman Corporation. It aims to extract insights by focusing on document similarity, key terms, phrases, topic modeling, and trend analysis etc.
 
-## Project Structure
+``Includes 50 code cells, 43 of which contain outputs that showcase the analysis results and insights derived from the 10K reports.``
+
+## Project Features
 
 The notebook is structured into several main sections:
 
-1. **Dependencies** - Lists all the necessary libraries and frameworks required to run the notebook.
-2. **Data Preparation** - Covers the preprocessing steps to prepare the 10K report texts for analysis.
-3. **Task 1: Find Close Documents to Words Method** - Implements and discusses a method for finding documents closely related to a set of specified words.
-4. **Task 2: Words of Interest Analysis** - Analyzes specific words of interest within the documents, examining their significance and context.
-5. **Task 3: Fit Topic Model Method** - Details the approach for fitting a topic model to the documents, aiming to uncover the main themes within the 10K reports.
-6. **Task 4: Topics of Interest Analysis** - Explores the identified topics, discussing their relevance and evolution over time.
+- **Document Similarity Analysis**: Implements algorithms to identify documents that are closely related based on specified keywords, aiding in understanding the thematic consistency or deviation across reports.
 
-The notebook includes 50 code cells, 43 of which contain outputs that showcase the analysis results and insights derived from the 10K reports.
+- **Key Terms and Phrases Analysis**: Employs NLP methods to pinpoint and scrutinize the significance, frequency, and contextual usage of selected terms and phrases within the 10K reports, highlighting their impact and relevance.
+
+- **Topic Modeling**: Applies topic modeling techniques to discover and categorize the main themes present in the textual data of the 10K reports, offering insights into the strategic focuses and concerns of the corporation over time.
+
+- **Trend Analysis**: Analyzes the evolution of topics, terms, and their associated sentiments across different reporting periods, providing a longitudinal view of the company's narrative and strategic direction.
 
 ## Getting Started
 
