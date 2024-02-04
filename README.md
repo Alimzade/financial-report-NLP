@@ -1,4 +1,4 @@
-# Deep Learning and NLP Analysis of Northrop Grumman Corporation's 10K Report
+# Deep Learning and NLP Analysis of financial 10K Report
 
 This project applies deep learning and natural language processing (NLP) techniques to analyze the 10K financial reports of Northrop Grumman Corporation. It aims to extract insights by focusing on document similarity, key terms, phrases, topic modeling, and trend analysis etc.
 
@@ -10,11 +10,12 @@ The notebook is structured into several main sections:
 
 - **Document Similarity Analysis**: Implements algorithms to identify documents that are closely related based on specified keywords, aiding in understanding the thematic consistency or deviation across reports.
 
-- **Key Terms and Phrases Analysis**: Employs NLP methods to pinpoint and scrutinize the significance, frequency, and contextual usage of selected terms and phrases within the 10K reports, highlighting their impact and relevance.
+- **Key Terms and Phrases Analysis**: Employs NLP methods to analyze the significance, frequency, and contextual usage of selected terms and phrases within the 10K reports, highlighting their impact and relevance.
 
-- **Topic Modeling**: Applies topic modeling techniques to discover and categorize the main themes present in the textual data of the 10K reports, offering insights into the strategic focuses and concerns of the corporation over time.
+- **Topic Modeling**: Applies topic modeling techniques to discover and categorize the main themes present in the textual data, offering insights into the strategic focuses and concerns of the corporation over time.
 
 - **Trend Analysis**: Analyzes the evolution of topics, terms, and their associated sentiments across different reporting periods, providing a longitudinal view of the company's narrative and strategic direction.
+
 
 ## Getting Started
 
@@ -30,7 +31,7 @@ You can install the required libraries using pip:
 pip install -r requirements.txt
 ```
 
-## Running the Notebook
+### Running the Notebook
 After installing the dependencies, launch Jupyter Notebook or JupyterLab using:
 
 ```bash
@@ -43,7 +44,8 @@ Or for JupyterLab:
 jupyter lab
 ```
 
-Then navigate to the `Deep_Learning_and_NLP_10k_report_analysis_of_Northrop_Grumman_Corporation.ipynb` file and open it.
+Then navigate to the `Deep_Learning_and_NLP_10k_report_analysis_of_Northrop_Grumman_Corporation.ipynb` file.
 
+<br />
 
 - You can also use Google Colab to work with jupyter notebooks.
